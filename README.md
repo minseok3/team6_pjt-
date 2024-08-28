@@ -1,4 +1,4 @@
-# 🔥 LPG 가스 누출 탐지기 (LPG Gas Guard) 🔍
+# 🔥 LPG 가스 누출 탐지기 (LPG Gas Guard) - LGG 🔍
 
 ![image](https://github.com/user-attachments/assets/9ccdd86b-1bc9-4452-a209-6980684fa7f1)
 
